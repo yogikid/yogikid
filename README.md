@@ -1,61 +1,60 @@
-# 🌐 Hi, I'm [ Yogi Priyan Perdana ]  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I'm%20Yogi%20Priyan%20Perdana&descAlignY=60&descAlign=50" width="100%"/>
+</div>
 
-### Web Developer | Problem Solver | Lifelong Learner
+### 👨‍💻 About Me
 
----
+Hi, I'm **Yogi**. I'm a Software Engineering Technology student at **Politeknik Wilmar Bisnis Indonesia**.
+I have a relentless curiosity for **Backend Development**, **Artificial Intelligence**, and **Cyber Security**. Currently channeling my inner "Mr. Robot" to build secure and efficient systems.
 
-## 🌟 About Me
-- 🔭 I’m currently working on **[ YogiKID | PLATFORM ]**
-- 🌱 I’m learning **Advanced PHP and JavaScript Frameworks**
-- 💬 Ask me about **Web Development, Backend Solutions, or UI/UX Design**
-- 📫 How to reach me: **[ my@yogik.id ]**
-- ⚡ Fun fact: I love debugging as much as I love coffee!
-
----
-
-## 🛠️ Tech Stack
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-### **Backend Development**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-### **Tools & Others**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- 🔭 I’m currently working on: **Backend Systems with Golang & Python**
+- 🌱 I’m currently learning: **Advanced Cryptography & Machine Learning**
+- 🎯 Goals: **Mastering Cyber Security & Data Science**
+- ⚡ Fun fact: I run my own VPS and love tinkering with Linux kernels.
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogikid&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogikid&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogikid&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kail-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
 
 ---
 
-## 🏆 Achievements
-- 🏗 Built and deployed **[ YogiKID | PLATFORM ]** using PHP and MySQL.
-- 🖌 Designed and implemented responsive UI/UX for **[GIMI NET]**.
-- 📜 Contributed to **[Notable Open Source Project]** as a frontend/backend developer.
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LU&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogikid&theme=radical&hide_border=true" alt="streak graph" />
+</div>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogikid)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yogikid)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github-pages&logoColor=white)](https://yogik.id)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/giidev)
+### 🔗 Connect with Me
 
----
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yogikid&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/yogipriyanperdana">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yogikid@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
