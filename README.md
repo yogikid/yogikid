@@ -36,8 +36,8 @@ I have a relentless curiosity for **Backend Development**, **Artificial Intellig
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LU&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogikid&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogikid&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br/>
