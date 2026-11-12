@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=System.initialized...;User:+Yogi+(yogikid);Target:+Cyber+Security+%26+Backend;Execute:+Make_It_Secure();" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=User:+Yogi+Priyan+(yogikid);Focus:+Systems,+Infra+%26+Security+RE;Building:+High-Throughput+Gateways+%26+Tooling;Breaking+Protocols,+Building+Infrastructure;" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2&section=header" width="100%"/>
 </div>
 
-### 💀 System Integrity: *Compromised* (Just Kidding)
+### ⚡ Systems Architecture • Reverse Engineering • Backend Infrastructure
 
-> *"We are all living in each other's paranoia." - Mr. Robot*
+> *"The best way to understand a system is to tear it down to first principles."*
 
-Hi, I'm **Yogi**. Mahasiswa **Teknologi Rekayasa Perangkat Lunak** yang obsesif dengan keamanan data dan backend system. 
-Sekarang lagi fokus ngulik **Golang**, **Python**, dan teknik **Offensive Security** di Linux.
+Hi, I'm **Yogi**. Software Engineering student focused on systems-level programming, low-level network internals, and offensive security research. I build high-throughput backends, explore binary reverse engineering, and design resilient self-hosted infrastructure.
 
-- 🔭 **Main Project:** Building secure API with Golang.
-- 🛡️ **Study:** Deep dive into Cryptography & Malware Analysis.
-- 🕹️ **Playground:** Arch Linux & Kali Linux.
+- 🔭 **Building:** Distributed LLM gateways, high-performance services, and developer tooling with **Go** & **Rust**.
+- 🔬 **Research & RE:** Protocol dissection, dynamic binary instrumentation, and systems-level security.
+- ⚙️ **Infra & Core:** Linux kernel environments (Debian / Arch), containerized microservices, and network routing.
+- 🎯 **Target:** Advancing into distributed systems architecture & systems security research.
 
 ---
 
@@ -23,17 +23,21 @@ Sekarang lagi fokus ngulik **Golang**, **Python**, dan teknik **Offensive Securi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<!-- Systems & Tools -->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
