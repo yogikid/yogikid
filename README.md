@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=User:+Yogi+Priyan+(yogikid);Focus:+Systems,+Infra+%26+Security+RE;Building:+High-Throughput+Gateways+%26+Tooling;Breaking+Protocols,+Building+Infrastructure;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=User%3A+Yogi+Priyan+%28yogikid%29;Focus%3A+Systems%2C+Infra+%26+Security+RE;Building%3A+Gateways+%26+Core+Tooling;Breaking+Protocols%2C+Building+Infra;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -46,12 +46,8 @@ Hi, I'm **Yogi**. Software Engineering student focused on systems-level programm
 ### 📡 GitHub Activity
 
 <div align="center">
-  <img src="https://github.com/yogikid/yogikid/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogikid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogikid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00" height="150" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yogikid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" height="150" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yogikid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00" height="150" alt="languages graph" />
 </div>
 
 <br/>
